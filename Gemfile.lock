@@ -160,6 +160,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  actionmailer
   activerecord-tableless
   better_errors
   coffee-rails (~> 4.0.0)

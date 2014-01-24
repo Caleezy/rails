@@ -46,6 +46,7 @@ gem 'google_drive'
 gem 'figaro'
 gem 'gibbon'
 gem 'activerecord-tableless'
+gem 'actionmailer'
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
